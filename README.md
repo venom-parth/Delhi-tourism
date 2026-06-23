@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🪷 Delhi. | Future Meets Heritage
+#  Delhi. | Future Meets Heritage
   
 **A stunning, highly-interactive tourism web experience celebrating the National Capital Territory of Delhi.**
 
