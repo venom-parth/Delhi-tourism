@@ -1,0 +1,6 @@
+{
+  "name": "Delhi Tourism",
+  "description": "A premium, futuristic single-page tourism website exploring Delhi's heritage, culture, and travel experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
